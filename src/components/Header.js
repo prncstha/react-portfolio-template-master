@@ -28,12 +28,12 @@ const Header = () => {
                   ? data.headerTagline[1]
                   : "products, brands"}
               </h1>
-              <h1>
+              {/* <h1>
                 {" "}
                 {data.headerTagline[2]
                   ? data.headerTagline[2]
                   : "and experience"}
-              </h1>
+              </h1> */}
             </div>
           </Fade>
           <Fade bottom>
